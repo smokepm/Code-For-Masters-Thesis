@@ -51,8 +51,6 @@ This notebook contains the main econometric analysis:
   - Daily smoking
   - E-cigarette use
 - **Subgroup Analysis**:
-  - By income level
-  - By demographic characteristics
   - By political leaning of states (Republican vs. Democratic)
 - **Robustness Checks**:
   - Alternative treatment definitions
@@ -170,14 +168,6 @@ Results are presented in `findings.ipynb` including:
 - Heterogeneous effects by subgroup
 - Event-study plots showing parallel trends and post-treatment effects
 
-## Citation
-
-If you use this code or methodology, please cite:
-
-```
-[Author Name]. [Year]. "The Effect of Medicaid Expansion on Smoking Behavior." 
-Master's Thesis, [University Name].
-```
 
 ## References
 
